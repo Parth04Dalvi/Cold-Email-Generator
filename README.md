@@ -35,7 +35,7 @@ An AI-powered web app that generates professional cold emails with customizable 
 
 ## 🛠️ Setup Instructions
 
-### 1. Clone the repository
+
 
 ```bash
 git clone https://github.com/your-username/cold-email-generator.git
