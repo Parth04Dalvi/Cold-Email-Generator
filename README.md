@@ -13,11 +13,6 @@ An AI-powered web app that generates professional cold emails with customizable 
 
 ---
 
-## 🖼️ Demo Preview
-
-> Coming soon! (Add screenshots or a Loom video link here)
-
----
 
 ## 🚀 Tech Stack
 
