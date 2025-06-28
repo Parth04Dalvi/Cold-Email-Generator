@@ -28,15 +28,7 @@ An AI-powered web app that generates professional cold emails with customizable 
 
 ## 📁 Project Structure
 
-cold-email-generator/
-├── backend/
-│ ├── app.py # Flask API
-│ ├── gmail_send.py # Gmail sending logic
-│ ├── credentials.json # Google OAuth client secret
-│ ├── token.json # Saved token (auto-generated)
-│ └── requirements.txt
-└── frontend/
-└── src/App.js # React form interface
+![image](https://github.com/user-attachments/assets/063d49e7-ed81-4090-9390-f8f6ad01caa7)
 
 
 ---
